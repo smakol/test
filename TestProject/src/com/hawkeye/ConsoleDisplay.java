@@ -21,6 +21,10 @@ public class ConsoleDisplay
 		{
 			System.out.println((i + 1) + ". Testing");
 		}
+		
+		System.out.println("Name : " + JDBCConstants.JdbcSinkMode.INSERT);
+		System.out.println("ID : " + JDBCConstants.JdbcSinkMode.INSERT.getID());
+		
 	}
 	
 }
