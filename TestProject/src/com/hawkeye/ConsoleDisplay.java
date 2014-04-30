@@ -9,7 +9,7 @@ package com.hawkeye;
  */
 public class ConsoleDisplay
 {
-	
+	 
 	/**
 	 * @param args
 	 */
